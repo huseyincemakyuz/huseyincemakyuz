@@ -8,7 +8,7 @@
 - 📫 How to reach me: Mail on hsyncmakyz@gmail.com
 
   ## Connect with me :
-  ![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/huseyin-cem-akyuz/)
+  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/huseyin-cem-akyuz/)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/hsyncmakyz/) 
   [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@hsyncmakyz)
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/hsyncmakyz)
