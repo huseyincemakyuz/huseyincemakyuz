@@ -30,6 +30,6 @@
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
  
  
- ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+ ![Github stats 2](https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true&theme=radical)
 
   
