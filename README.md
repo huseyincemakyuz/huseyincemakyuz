@@ -3,8 +3,8 @@
 <!--
 **huseyincemakyuz/huseyincemakyuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🌱 I’m currently learning **JavaScript**, **React.js**,**Python**,**SQL**
-- 💬 Ask me about **JavaScript**,**SQL** 
+- 🌱 I’m currently learning **JavaScript**, **React.js**, **Python**, **SQL**
+- 💬 Ask me about **JavaScript**, **SQL** 
 - 📫 How to reach me: Mail on hsyncmakyz@gmail.com
 
 ### Connect with me :
