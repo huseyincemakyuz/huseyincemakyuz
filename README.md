@@ -7,7 +7,7 @@
 - 💬 Ask me about **JavaScript**,**SQL** 
 - 📫 How to reach me: Mail on hsyncmakyz@gmail.com
 
-  ## Connect with me :
+  # Connect with me :
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyin-cem-akyuz/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hsyncmakyz/) 
   [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hsyncmakyz)
@@ -15,7 +15,7 @@
   [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
  
  
-  ## Technologies:
+  # Technologies:
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
