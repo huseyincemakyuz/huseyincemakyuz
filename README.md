@@ -30,11 +30,12 @@
 </br>
 </br>
 </br>
-<a href="https://github.com/huseyincemakyuz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huseyincemakyuz&show_icons=true&theme=radical&line_height=20%text_size=10" />
-</a>
 <a href="https://github.com/huseyincemakyuz/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincemakyuz&theme=radical&layout=compact" />
 </a>
+<a href="https://github.com/huseyincemakyuz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=huseyincemakyuz&show_icons=true&theme=radical&line_height=20%text_size=10" />
+</a>
+
 
   
