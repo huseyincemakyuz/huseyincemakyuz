@@ -63,7 +63,8 @@
 
 ## Stats Test
 
-![Stats](https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true&v=1)
+
 
 
 
