@@ -60,9 +60,6 @@
 <a 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true&theme=radical)
 </a>
-
-## Stats Test
-
 ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=huseyincemakyuz)
 
 
