@@ -1,11 +1,13 @@
-Hi 👋, I'm Hüseyin Cem
-🏦 Payment Systems Software Developer with ~4 years of experience in the banking industry.
-I design and develop core payment infrastructure — ATM, POS, online payment flows, merchant integration systems, and transaction processing pipelines built on ISO 8583 messaging standards.
+## Hi 👋, I'm Hüseyin Cem
 
-💳 Working on payment switching, transaction authorization, merchant acquiring, and card management systems
-🔧 Daily tools: C#, .NET, C++, MSSQL
-🌱 Currently exploring: React.js, Python, JavaScript/TypeScript
-📫 Reach me: hsyncmakyz@gmail.com
+🏦 **Payment Systems Software Developer** with ~4 years of experience in the banking industry.
+
+I design and develop core payment infrastructure — ATM, POS, online payment flows, merchant integration systems, and transaction processing pipelines built on **ISO 8583** messaging standards.
+
+- 💳 Working on **payment switching**, **transaction authorization**, **merchant acquiring**, and **card management** systems
+- 🔧 Daily tools: **C#**, **.NET**, **C++**, **MSSQL**
+- 🌱 Currently exploring: **React.js**, **Python**, **JavaScript/TypeScript**
+- 📫 Reach me: **hsyncmakyz@gmail.com**
 
 ### Connect with me :
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huseyin-cem-akyuz/)
