@@ -78,6 +78,9 @@ I design and develop core payment infrastructure — ATM, POS, online payment fl
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincemakyuz&theme=radical&layout=compact)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true&theme=radical&cache_seconds=1800&v=2" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincemakyuz&layout=compact&theme=radical&cache_seconds=1800&v=2" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyincemakyuz&show_icons=true&theme=radical)
+
