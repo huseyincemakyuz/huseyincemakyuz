@@ -81,8 +81,7 @@ I design and develop core payment infrastructure — ATM, POS, online payment fl
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=huseyincemakyuz&theme=radical&hide_border=false" alt="GitHub Streak" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huseyincemakyuz&layout=compact&theme=radical&cache_seconds=86400&count_private=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huseyincemakyuz&theme=radical" alt="Top Languages" />
 </p>
-
 
 
